@@ -3,4 +3,4 @@
 import Review from "./Review.jsx";
 
 window.Review = Review;
-// ReactDOM.render(<Review />, document.getElementById("name-of-the-service"));
+ReactDOM.render(<Review />, document.getElementById("Review"));
